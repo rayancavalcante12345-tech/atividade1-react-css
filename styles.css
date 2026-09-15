@@ -1,0 +1,27 @@
+.perfil {
+  width: 300px;
+  margin: 50px auto;
+}
+
+.nome {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.descricao {
+  font-family: Arial;
+  font-size: 16px;
+}
+
+.botao {
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+.botao:hover {
+  background-color: green;
+  transition: 0.3s;
+}
